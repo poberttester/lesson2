@@ -19,5 +19,12 @@ public class Main {
       Написать метод(ы), который распарсит строку и, используя StringBuilder, создаст строки вида:
       Студент [фамилия] получил [оценка] по предмету [предмет].
 */
+
+// 3. Напишите метод, который принимает на вход строку (String) и определяет является ли строка палиндромом
+//    (возвращает boolean значение).
+
+        Palindrom palindrom = new Palindrom();
+        boolean answer = palindrom.isPalindrom("профессор");
+        System.out.println(answer);
     }
 }
