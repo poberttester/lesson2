@@ -1,18 +1,18 @@
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 0 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 1 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 2 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 3 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 4 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 5 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 6 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Сортировка 7 элемента массива
-мар 08, 2023 1:07:19 PM com.company.BubbleSort sortArray
+мар 10, 2023 3:41:39 AM com.company.BubbleSort sortArray
 INFO: Вывод отсортированных по возрастанию значений в консоль

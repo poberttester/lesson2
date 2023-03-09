@@ -35,9 +35,9 @@ public class BubbleSort {
         }
 
         for (int a:arr) {
-            System.out.println(a);
+            System.out.println(a + '\n');
         }
-        logger.info("Вывод отсортированных по возрастанию значений в консоль");
+        logger.info("Вывод отсортированных по возрастанию значений в консоль \n");
 
 
     }
